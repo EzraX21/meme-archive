@@ -1,0 +1,1533 @@
+{
+  "schema": 1,
+  "items": {
+    "A01": {
+      "full": "neijuan",
+      "initials": "nj"
+    },
+    "A02": {
+      "full": "tangping",
+      "initials": "tp"
+    },
+    "A03": {
+      "full": "bailan",
+      "initials": "bl"
+    },
+    "A04": {
+      "full": "run",
+      "initials": "r"
+    },
+    "A05": {
+      "full": "emo",
+      "initials": "emo"
+    },
+    "A06": {
+      "full": "pofang",
+      "initials": "pf"
+    },
+    "A07": {
+      "full": "shesi",
+      "initials": "ss"
+    },
+    "A08": {
+      "full": "shekong",
+      "initials": "sk"
+    },
+    "A09": {
+      "full": "sheniu",
+      "initials": "sn"
+    },
+    "A10": {
+      "full": "dagongren",
+      "initials": "dgr"
+    },
+    "A11": {
+      "full": "ganfanren",
+      "initials": "gfr"
+    },
+    "A12": {
+      "full": "moyu",
+      "initials": "my"
+    },
+    "A13": {
+      "full": "fanersai",
+      "initials": "fes"
+    },
+    "A14": {
+      "full": "yinyangguaiqi",
+      "initials": "yygq"
+    },
+    "A15": {
+      "full": "shechu",
+      "initials": "sc"
+    },
+    "A16": {
+      "full": "songchigan",
+      "initials": "scg"
+    },
+    "A17": {
+      "full": "ziqia",
+      "initials": "zq"
+    },
+    "A18": {
+      "full": "niuma",
+      "initials": "nm"
+    },
+    "A19": {
+      "full": "zhuliren",
+      "initials": "zlr"
+    },
+    "A20": {
+      "full": "xianyanbao",
+      "initials": "xyb"
+    },
+    "A21": {
+      "full": "dazi",
+      "initials": "dz"
+    },
+    "A22": {
+      "full": "dianzizhacai",
+      "initials": "dzzc"
+    },
+    "A23": {
+      "full": "ireneren",
+      "initials": "irer"
+    },
+    "A24": {
+      "full": "nongrendanren",
+      "initials": "nrdr"
+    },
+    "A25": {
+      "full": "lakua",
+      "initials": "lk"
+    },
+    "A26": {
+      "full": "nazale",
+      "initials": "nzl"
+    },
+    "A27": {
+      "full": "meishidameishida",
+      "initials": "msdmsd"
+    },
+    "A28": {
+      "full": "yilaoshiqiufangguo",
+      "initials": "ylsqfg"
+    },
+    "A29": {
+      "full": "hongwen",
+      "initials": "hw"
+    },
+    "A30": {
+      "full": "chouxiang",
+      "initials": "cx"
+    },
+    "A31": {
+      "full": "diewei",
+      "initials": "dw"
+    },
+    "A32": {
+      "full": "pua",
+      "initials": "pua"
+    },
+    "A33": {
+      "full": "jingshenneihao",
+      "initials": "jsnh"
+    },
+    "A34": {
+      "full": "duanqin",
+      "initials": "dq"
+    },
+    "A35": {
+      "full": "xianchengguifu",
+      "initials": "xcgf"
+    },
+    "A36": {
+      "full": "shuziyoumin",
+      "initials": "szym"
+    },
+    "A37": {
+      "full": "fafengwenxue",
+      "initials": "ffwx"
+    },
+    "A38": {
+      "full": "feihuawenxue",
+      "initials": "fhwx"
+    },
+    "A39": {
+      "full": "quezhenshiwenxue",
+      "initials": "qzswx"
+    },
+    "A40": {
+      "full": "hulianwangzuiti",
+      "initials": "hlwzt"
+    },
+    "A41": {
+      "full": "jianyizhuanjiabuyaojianyi",
+      "initials": "jyzjbyjy"
+    },
+    "A42": {
+      "full": "xiaofeijiangji",
+      "initials": "xfjj"
+    },
+    "A43": {
+      "full": "gaishengshenggaihuahua",
+      "initials": "gssghh"
+    },
+    "A44": {
+      "full": "jingzhiqiong",
+      "initials": "jzq"
+    },
+    "A45": {
+      "full": "xiaozhenzuotijia",
+      "initials": "xzztj"
+    },
+    "A46": {
+      "full": "kongyijidechangshan",
+      "initials": "kyjdcs"
+    },
+    "A47": {
+      "full": "quanzhiernv",
+      "initials": "qzen"
+    },
+    "A48": {
+      "full": "wonangfeiwenxue",
+      "initials": "wnfwx"
+    },
+    "A49": {
+      "full": "zaofwane",
+      "initials": "zfwe"
+    },
+    "A50": {
+      "full": "qingxuwending",
+      "initials": "qxwd"
+    },
+    "A51": {
+      "full": "bianjiegan",
+      "initials": "bjg"
+    },
+    "A52": {
+      "full": "tezhongbingshilvyou",
+      "initials": "tzbsly"
+    },
+    "A53": {
+      "full": "citywalk",
+      "initials": "citywalk"
+    },
+    "A54": {
+      "full": "fanxianglvyou",
+      "initials": "fxly"
+    },
+    "A55": {
+      "full": "renshe",
+      "initials": "rs"
+    },
+    "A56": {
+      "full": "yishigan",
+      "initials": "ysg"
+    },
+    "A57": {
+      "full": "wotainanle",
+      "initials": "wtnl"
+    },
+    "A58": {
+      "full": "nirenhaiguaihaolei",
+      "initials": "nrhghl"
+    },
+    "A59": {
+      "full": "foxi",
+      "initials": "fx"
+    },
+    "A60": {
+      "full": "juanwang",
+      "initials": "jw"
+    },
+    "B01": {
+      "full": "yyds",
+      "initials": "yyds"
+    },
+    "B02": {
+      "full": "xswl",
+      "initials": "xswl"
+    },
+    "B03": {
+      "full": "nsdd",
+      "initials": "nsdd"
+    },
+    "B04": {
+      "full": "u1s1",
+      "initials": "u1s1"
+    },
+    "B05": {
+      "full": "bdjw",
+      "initials": "bdjw"
+    },
+    "B06": {
+      "full": "zqsg",
+      "initials": "zqsg"
+    },
+    "B07": {
+      "full": "srds",
+      "initials": "srds"
+    },
+    "B08": {
+      "full": "dddd",
+      "initials": "dddd"
+    },
+    "B09": {
+      "full": "gkd",
+      "initials": "gkd"
+    },
+    "B10": {
+      "full": "kswl",
+      "initials": "kswl"
+    },
+    "B11": {
+      "full": "pyq",
+      "initials": "pyq"
+    },
+    "B12": {
+      "full": "yygq",
+      "initials": "yygq"
+    },
+    "B13": {
+      "full": "dbq",
+      "initials": "dbq"
+    },
+    "B14": {
+      "full": "xdm",
+      "initials": "xdm"
+    },
+    "B15": {
+      "full": "jrm",
+      "initials": "jrm"
+    },
+    "B16": {
+      "full": "awsl",
+      "initials": "awsl"
+    },
+    "B17": {
+      "full": "lsp",
+      "initials": "lsp"
+    },
+    "B18": {
+      "full": "rnmtuiqian",
+      "initials": "rnmtq"
+    },
+    "B19": {
+      "full": "nbcs",
+      "initials": "nbcs"
+    },
+    "B20": {
+      "full": "xjj",
+      "initials": "xjj"
+    },
+    "B21": {
+      "full": "yjgj",
+      "initials": "yjgj"
+    },
+    "B22": {
+      "full": "kdl",
+      "initials": "kdl"
+    },
+    "B23": {
+      "full": "yyqx",
+      "initials": "yyqx"
+    },
+    "B24": {
+      "full": "bhys",
+      "initials": "bhys"
+    },
+    "B25": {
+      "full": "shuanq",
+      "initials": "sq"
+    },
+    "B26": {
+      "full": "bengbuzhule",
+      "initials": "bbzl"
+    },
+    "B27": {
+      "full": "lanshouxianggu",
+      "initials": "lsxg"
+    },
+    "B28": {
+      "full": "woliekaile",
+      "initials": "wlkl"
+    },
+    "B29": {
+      "full": "juejuezi",
+      "initials": "jjz"
+    },
+    "B30": {
+      "full": "zundujiadu",
+      "initials": "zdjd"
+    },
+    "B31": {
+      "full": "taikula",
+      "initials": "tkl"
+    },
+    "B32": {
+      "full": "yunvwugua",
+      "initials": "ynwg"
+    },
+    "B33": {
+      "full": "yazi",
+      "initials": "yz"
+    },
+    "B34": {
+      "full": "wuhu",
+      "initials": "wh"
+    },
+    "B35": {
+      "full": "yalishanda",
+      "initials": "ylsd"
+    },
+    "B36": {
+      "full": "jimei",
+      "initials": "jm"
+    },
+    "B37": {
+      "full": "haoziweizhi",
+      "initials": "hzwz"
+    },
+    "B38": {
+      "full": "wuyuzi",
+      "initials": "wyz"
+    },
+    "B39": {
+      "full": "yizhenggexxzhu",
+      "initials": "yzgxxz"
+    },
+    "B40": {
+      "full": "666",
+      "initials": "666"
+    },
+    "B41": {
+      "full": "233",
+      "initials": "233"
+    },
+    "B42": {
+      "full": "886",
+      "initials": "886"
+    },
+    "B43": {
+      "full": "7456",
+      "initials": "7456"
+    },
+    "B44": {
+      "full": "9494",
+      "initials": "9494"
+    },
+    "B45": {
+      "full": "555",
+      "initials": "555"
+    },
+    "C01": {
+      "full": "zhanzhebaqianzhengle",
+      "initials": "zzbqzl"
+    },
+    "C02": {
+      "full": "fanyifanyishenmejiaojingxi",
+      "initials": "fyfysmjjx"
+    },
+    "C03": {
+      "full": "gongpinggongpinghaishitmdgongping",
+      "initials": "gpgphstmdgp"
+    },
+    "C04": {
+      "full": "chenqiezuobudao",
+      "initials": "cqzbd"
+    },
+    "C05": {
+      "full": "jianrenjiushijiaoqing",
+      "initials": "jrjsjq"
+    },
+    "C06": {
+      "full": "cuiguodalantadezui",
+      "initials": "cgdltdz"
+    },
+    "C07": {
+      "full": "zhefuqigeiniyaobuyao",
+      "initials": "zfqgnyby"
+    },
+    "C08": {
+      "full": "wocongweijianguoyourucihouyanwuchizhiren",
+      "initials": "wcwjgyrchywczr"
+    },
+    "C09": {
+      "full": "jiezhezouyuejiezhewu",
+      "initials": "jzzyjzw"
+    },
+    "C10": {
+      "full": "wodaleyibeizizhangjiubunengxiangshouxiangshouma",
+      "initials": "wdlybzzjbnxsxsm"
+    },
+    "C11": {
+      "full": "eryingzhangnitaniangdeyidalipaone",
+      "initials": "eyzntndydlpn"
+    },
+    "C12": {
+      "full": "kaipao",
+      "initials": "kp"
+    },
+    "C13": {
+      "full": "laomowoxiangchiyule",
+      "initials": "lmwxcyl"
+    },
+    "C14": {
+      "full": "fenglangyuedayuyuegui",
+      "initials": "flydyyg"
+    },
+    "C15": {
+      "full": "yiqipashanma",
+      "initials": "yqpsm"
+    },
+    "C16": {
+      "full": "shengtianbanzi",
+      "initials": "stbz"
+    },
+    "C17": {
+      "full": "yuanfangnizenmekan",
+      "initials": "yfnzmk"
+    },
+    "C18": {
+      "full": "wodunideqianglimeiyouzidan",
+      "initials": "wdndqlmyzd"
+    },
+    "C19": {
+      "full": "nishihouziqinglaidejiubingma",
+      "initials": "nshzqldjbm"
+    },
+    "C20": {
+      "full": "dalanggaichiyaole",
+      "initials": "dlgcyl"
+    },
+    "C21": {
+      "full": "cengjingyouyifenzhenzhideaiqing",
+      "initials": "cjyyfzzdaq"
+    },
+    "C22": {
+      "full": "haiyoushui",
+      "initials": "hys"
+    },
+    "C23": {
+      "full": "madongmei",
+      "initials": "mdm"
+    },
+    "C24": {
+      "full": "yigeyuehuaguangshiyi",
+      "initials": "ygyhgsy"
+    },
+    "C25": {
+      "full": "daoluqianwantiaoanquandiyitiao",
+      "initials": "dlqwtaqdyt"
+    },
+    "C26": {
+      "full": "womingyouwobuyoutian",
+      "initials": "wmywbyt"
+    },
+    "C27": {
+      "full": "woquandouyao",
+      "initials": "wqdy"
+    },
+    "C28": {
+      "full": "bupaoqibufangqi",
+      "initials": "bpqbfq"
+    },
+    "C29": {
+      "full": "kuihuadianxueshou",
+      "initials": "khdxs"
+    },
+    "C30": {
+      "full": "yikouyanqishuipensini",
+      "initials": "ykyqspsn"
+    },
+    "C31": {
+      "full": "woxiangbazhewanyierranchenglvde",
+      "initials": "wxbzwyercld"
+    },
+    "C32": {
+      "full": "rongmamazhazhen",
+      "initials": "rmmzz"
+    },
+    "C33": {
+      "full": "xieguangkunzuoyao",
+      "initials": "xgkzy"
+    },
+    "C34": {
+      "full": "sudaqiangwoxiangheshoumokafei",
+      "initials": "sdqwxhsmkf"
+    },
+    "C35": {
+      "full": "wangqiankanbiehuitou",
+      "initials": "wqkbht"
+    },
+    "C36": {
+      "full": "fanwozhonghuazhesuiyuanbizhu",
+      "initials": "fwzhzsybz"
+    },
+    "C37": {
+      "full": "mingjiushiqian",
+      "initials": "mjsq"
+    },
+    "C38": {
+      "full": "duibuqiwoshijingcha",
+      "initials": "dbqwsjc"
+    },
+    "C39": {
+      "full": "woyangnia",
+      "initials": "wyna"
+    },
+    "C40": {
+      "full": "21shijishenmezuiguirencai",
+      "initials": "21sjsmzgrc"
+    },
+    "D01": {
+      "full": "goutou",
+      "initials": "gt"
+    },
+    "D02": {
+      "full": "huaji",
+      "initials": "hj"
+    },
+    "D03": {
+      "full": "xiongmaotou",
+      "initials": "xmt"
+    },
+    "D04": {
+      "full": "mogutou",
+      "initials": "mgt"
+    },
+    "D05": {
+      "full": "jinguanzhang",
+      "initials": "jgz"
+    },
+    "D06": {
+      "full": "shishilani",
+      "initials": "ssln"
+    },
+    "D07": {
+      "full": "yaominglian",
+      "initials": "yml"
+    },
+    "D08": {
+      "full": "aoligei",
+      "initials": "alg"
+    },
+    "D09": {
+      "full": "zhenxiang",
+      "initials": "zx"
+    },
+    "D10": {
+      "full": "guoyanguoyu",
+      "initials": "gygy"
+    },
+    "D11": {
+      "full": "pipixiawomenzou",
+      "initials": "ppxwmz"
+    },
+    "D12": {
+      "full": "geyoutang",
+      "initials": "gyt"
+    },
+    "D13": {
+      "full": "honghuangzhili",
+      "initials": "hhzl"
+    },
+    "D14": {
+      "full": "zhuyaokanqizhi",
+      "initials": "zykqz"
+    },
+    "D15": {
+      "full": "jiajunpeng",
+      "initials": "jjp"
+    },
+    "D16": {
+      "full": "shenmadoushifuyun",
+      "initials": "smdsfy"
+    },
+    "D17": {
+      "full": "geili",
+      "initials": "gl"
+    },
+    "D18": {
+      "full": "kengdie",
+      "initials": "kd"
+    },
+    "D19": {
+      "full": "holdzhu",
+      "initials": "holdz"
+    },
+    "D20": {
+      "full": "shangbuqi",
+      "initials": "sbq"
+    },
+    "D21": {
+      "full": "diaosi",
+      "initials": "ds"
+    },
+    "D22": {
+      "full": "gaofushuai",
+      "initials": "gfs"
+    },
+    "D23": {
+      "full": "nidongde",
+      "initials": "ndd"
+    },
+    "D24": {
+      "full": "tuyangtusenpo",
+      "initials": "tytsp"
+    },
+    "D25": {
+      "full": "mengmengda",
+      "initials": "mmd"
+    },
+    "D26": {
+      "full": "yeshizuile",
+      "initials": "yszl"
+    },
+    "D27": {
+      "full": "youqianrenxing",
+      "initials": "yqrx"
+    },
+    "D28": {
+      "full": "huamiantaimeiwobugankan",
+      "initials": "hmtmwbgk"
+    },
+    "D29": {
+      "full": "wohewodexiaohuobandoujingdaile",
+      "initials": "whwdxhbdjdl"
+    },
+    "D30": {
+      "full": "namewentilaile",
+      "initials": "nmwtll"
+    },
+    "D31": {
+      "full": "wajuejijishunajiaqiang",
+      "initials": "wjjjsnjq"
+    },
+    "D32": {
+      "full": "fengjie",
+      "initials": "fj"
+    },
+    "D33": {
+      "full": "furongjiejie",
+      "initials": "frjj"
+    },
+    "D34": {
+      "full": "xilige",
+      "initials": "xlg"
+    },
+    "D35": {
+      "full": "xueyiqiaomen",
+      "initials": "xyqm"
+    },
+    "E01": {
+      "full": "4396",
+      "initials": "4396"
+    },
+    "E02": {
+      "full": "777",
+      "initials": "777"
+    },
+    "E03": {
+      "full": "wuzibuxing",
+      "initials": "wzbx"
+    },
+    "E04": {
+      "full": "rushb",
+      "initials": "rushb"
+    },
+    "E05": {
+      "full": "caijiuduolian",
+      "initials": "cjdl"
+    },
+    "E06": {
+      "full": "xiafan",
+      "initials": "xf"
+    },
+    "E07": {
+      "full": "wuhuqifei",
+      "initials": "whqf"
+    },
+    "E08": {
+      "full": "shepizouwei",
+      "initials": "spzw"
+    },
+    "E09": {
+      "full": "yuanshenqidong",
+      "initials": "ysqd"
+    },
+    "E10": {
+      "full": "youganyouke",
+      "initials": "ygyk"
+    },
+    "E11": {
+      "full": "kejin",
+      "initials": "kj"
+    },
+    "E12": {
+      "full": "kaihei",
+      "initials": "kh"
+    },
+    "E13": {
+      "full": "yanyuan",
+      "initials": "yy"
+    },
+    "E14": {
+      "full": "songrentou",
+      "initials": "srt"
+    },
+    "E15": {
+      "full": "xiaoxuesheng",
+      "initials": "xxs"
+    },
+    "E16": {
+      "full": "saibopengke",
+      "initials": "sbpk"
+    },
+    "E17": {
+      "full": "heishenhuawukong",
+      "initials": "hshwk"
+    },
+    "E18": {
+      "full": "aierdengfahuan",
+      "initials": "aedfh"
+    },
+    "E19": {
+      "full": "waibibabo",
+      "initials": "wbbb"
+    },
+    "E20": {
+      "full": "wenzhuwomennengying",
+      "initials": "wzwmny"
+    },
+    "E21": {
+      "full": "gandepiaoliang",
+      "initials": "gdpl"
+    },
+    "E22": {
+      "full": "zhebobukui",
+      "initials": "zbbk"
+    },
+    "E23": {
+      "full": "shixiongdijiulaikanwo",
+      "initials": "sxdjlkw"
+    },
+    "E24": {
+      "full": "yidao999",
+      "initials": "yd999"
+    },
+    "E25": {
+      "full": "yanglegeyang",
+      "initials": "ylgy"
+    },
+    "E26": {
+      "full": "hechengdaxigua",
+      "initials": "hcdxg"
+    },
+    "E27": {
+      "full": "lvxingqingwa",
+      "initials": "lxqw"
+    },
+    "E28": {
+      "full": "dianzimuyu",
+      "initials": "dzmy"
+    },
+    "E29": {
+      "full": "4399",
+      "initials": "4399"
+    },
+    "E30": {
+      "full": "dianzijingjibuxuyaoshili",
+      "initials": "dzjjbxysl"
+    },
+    "F01": {
+      "full": "qianfanggaoneng",
+      "initials": "qfgn"
+    },
+    "F02": {
+      "full": "mingchangmian",
+      "initials": "mcm"
+    },
+    "F03": {
+      "full": "huoqianliuming",
+      "initials": "hqlm"
+    },
+    "F04": {
+      "full": "wokeyi",
+      "initials": "wky"
+    },
+    "F05": {
+      "full": "kedaole",
+      "initials": "kdl"
+    },
+    "F06": {
+      "full": "yeqinghui",
+      "initials": "yqh"
+    },
+    "F07": {
+      "full": "yeqingjie",
+      "initials": "yqj"
+    },
+    "F08": {
+      "full": "xiaciyiding",
+      "initials": "xcyd"
+    },
+    "F09": {
+      "full": "baipiao",
+      "initials": "bp"
+    },
+    "F10": {
+      "full": "yijiansanlian",
+      "initials": "yjsl"
+    },
+    "F11": {
+      "full": "suzhisanlian",
+      "initials": "szsl"
+    },
+    "F12": {
+      "full": "cuigeng",
+      "initials": "cg"
+    },
+    "F13": {
+      "full": "kongjiangchenggong",
+      "initials": "kjcg"
+    },
+    "F14": {
+      "full": "zhangeqi",
+      "initials": "zgq"
+    },
+    "F15": {
+      "full": "leimu",
+      "initials": "lm"
+    },
+    "F16": {
+      "full": "jianyigaiwei",
+      "initials": "jygw"
+    },
+    "F17": {
+      "full": "danmuhuti",
+      "initials": "dmht"
+    },
+    "F18": {
+      "full": "jindutiaochengzhu",
+      "initials": "jdtcz"
+    },
+    "F19": {
+      "full": "zheshishenmeshenxianxx",
+      "initials": "zssmsxxx"
+    },
+    "F20": {
+      "full": "tafang",
+      "initials": "tf"
+    },
+    "F21": {
+      "full": "neiyuwanle",
+      "initials": "nywl"
+    },
+    "F22": {
+      "full": "dingliu",
+      "initials": "dl"
+    },
+    "F23": {
+      "full": "datou",
+      "initials": "dt"
+    },
+    "F24": {
+      "full": "kongping",
+      "initials": "kp"
+    },
+    "F25": {
+      "full": "lacai",
+      "initials": "lc"
+    },
+    "F26": {
+      "full": "weifen",
+      "initials": "wf"
+    },
+    "F27": {
+      "full": "cpfen",
+      "initials": "cpf"
+    },
+    "F28": {
+      "full": "kecp",
+      "initials": "kcp"
+    },
+    "F29": {
+      "full": "erchuang",
+      "initials": "ec"
+    },
+    "F30": {
+      "full": "tongbao",
+      "initials": "tb"
+    },
+    "F31": {
+      "full": "yingyuan",
+      "initials": "yy"
+    },
+    "F32": {
+      "full": "zhanjie",
+      "initials": "zj"
+    },
+    "F33": {
+      "full": "zhongerbing",
+      "initials": "zeb"
+    },
+    "F34": {
+      "full": "aojiao",
+      "initials": "aj"
+    },
+    "F35": {
+      "full": "guichu",
+      "initials": "gc"
+    },
+    "G01": {
+      "full": "gaha",
+      "initials": "gh"
+    },
+    "G02": {
+      "full": "huyou",
+      "initials": "hy"
+    },
+    "G03": {
+      "full": "dese",
+      "initials": "ds"
+    },
+    "G04": {
+      "full": "maitai",
+      "initials": "mt"
+    },
+    "G05": {
+      "full": "laotie",
+      "initials": "lt"
+    },
+    "G06": {
+      "full": "zheng",
+      "initials": "z"
+    },
+    "G07": {
+      "full": "laoke",
+      "initials": "lk"
+    },
+    "G08": {
+      "full": "bashi",
+      "initials": "bs"
+    },
+    "G09": {
+      "full": "guawazi",
+      "initials": "gwz"
+    },
+    "G10": {
+      "full": "xiongqi",
+      "initials": "xq"
+    },
+    "G11": {
+      "full": "yaode",
+      "initials": "yd"
+    },
+    "G12": {
+      "full": "chuizi",
+      "initials": "cz"
+    },
+    "G13": {
+      "full": "housailei",
+      "initials": "hsl"
+    },
+    "G14": {
+      "full": "dingnigefei",
+      "initials": "dngf"
+    },
+    "G15": {
+      "full": "liangzai",
+      "initials": "lz"
+    },
+    "G16": {
+      "full": "maowenti",
+      "initials": "mwt"
+    },
+    "G17": {
+      "full": "zhong",
+      "initials": "z"
+    },
+    "G18": {
+      "full": "edishena",
+      "initials": "edsa"
+    },
+    "G19": {
+      "full": "liaozalie",
+      "initials": "lzl"
+    },
+    "G20": {
+      "full": "jiejie",
+      "initials": "jj"
+    },
+    "G21": {
+      "full": "haojiche",
+      "initials": "hjc"
+    },
+    "G22": {
+      "full": "biaogewochulaileo",
+      "initials": "bgwcllo"
+    },
+    "G23": {
+      "full": "banzha",
+      "initials": "bz"
+    },
+    "G24": {
+      "full": "baman",
+      "initials": "bm"
+    },
+    "G25": {
+      "full": "daojianghu",
+      "initials": "djh"
+    },
+    "H01": {
+      "full": "rickroll",
+      "initials": "rickroll"
+    },
+    "H02": {
+      "full": "doge",
+      "initials": "doge"
+    },
+    "H03": {
+      "full": "pepe",
+      "initials": "pepe"
+    },
+    "H04": {
+      "full": "trollface",
+      "initials": "trollface"
+    },
+    "H05": {
+      "full": "loss",
+      "initials": "loss"
+    },
+    "H06": {
+      "full": "sus",
+      "initials": "sus"
+    },
+    "H07": {
+      "full": "based",
+      "initials": "based"
+    },
+    "H08": {
+      "full": "cringe",
+      "initials": "cringe"
+    },
+    "H09": {
+      "full": "sigma",
+      "initials": "sigma"
+    },
+    "H10": {
+      "full": "rizz",
+      "initials": "rizz"
+    },
+    "H11": {
+      "full": "skibidi",
+      "initials": "skibidi"
+    },
+    "H12": {
+      "full": "gyatt",
+      "initials": "gyatt"
+    },
+    "H13": {
+      "full": "ohio",
+      "initials": "ohio"
+    },
+    "H14": {
+      "full": "nocap",
+      "initials": "nocap"
+    },
+    "H15": {
+      "full": "itsgiving",
+      "initials": "itsgiving"
+    },
+    "H16": {
+      "full": "slay",
+      "initials": "slay"
+    },
+    "H17": {
+      "full": "touchgrass",
+      "initials": "touchgrass"
+    },
+    "H18": {
+      "full": "cope",
+      "initials": "cope"
+    },
+    "H19": {
+      "full": "lratio",
+      "initials": "lratio"
+    },
+    "H20": {
+      "full": "gigachad",
+      "initials": "gigachad"
+    },
+    "H21": {
+      "full": "npc",
+      "initials": "npc"
+    },
+    "H22": {
+      "full": "brainrot",
+      "initials": "brainrot"
+    },
+    "H23": {
+      "full": "delulu",
+      "initials": "delulu"
+    },
+    "H24": {
+      "full": "aura",
+      "initials": "aura"
+    },
+    "H25": {
+      "full": "cooked",
+      "initials": "cooked"
+    },
+    "H26": {
+      "full": "lethimcook",
+      "initials": "lethimcook"
+    },
+    "H27": {
+      "full": "goated",
+      "initials": "goated"
+    },
+    "H28": {
+      "full": "wl",
+      "initials": "wl"
+    },
+    "H29": {
+      "full": "f",
+      "initials": "f"
+    },
+    "H30": {
+      "full": "thisisfine",
+      "initials": "thisisfine"
+    },
+    "H31": {
+      "full": "distractedboyfriend",
+      "initials": "distractedboyfriend"
+    },
+    "H32": {
+      "full": "womanyellingatcat",
+      "initials": "womanyellingatcat"
+    },
+    "H33": {
+      "full": "drake",
+      "initials": "drake"
+    },
+    "H34": {
+      "full": "galaxybrain",
+      "initials": "galaxybrain"
+    },
+    "H35": {
+      "full": "stonks",
+      "initials": "stonks"
+    },
+    "H36": {
+      "full": "cheems",
+      "initials": "cheems"
+    },
+    "H37": {
+      "full": "hidethepainharold",
+      "initials": "hidethepainharold"
+    },
+    "H38": {
+      "full": "confusednickyoung",
+      "initials": "confusednickyoung"
+    },
+    "H39": {
+      "full": "rollsafe",
+      "initials": "rollsafe"
+    },
+    "H40": {
+      "full": "isthisapigeon",
+      "initials": "isthisapigeon"
+    },
+    "H41": {
+      "full": "theyhadusinthefirsthalf",
+      "initials": "theyhadusinthefirsthalf"
+    },
+    "H42": {
+      "full": "nobody",
+      "initials": "nobody"
+    },
+    "H43": {
+      "full": "poggers",
+      "initials": "poggers"
+    },
+    "H44": {
+      "full": "67",
+      "initials": "67"
+    },
+    "H45": {
+      "full": "42",
+      "initials": "42"
+    },
+    "I01": {
+      "full": "renjianbuchai",
+      "initials": "rjbc"
+    },
+    "I02": {
+      "full": "shidongranju",
+      "initials": "sdrj"
+    },
+    "I03": {
+      "full": "leijuebuai",
+      "initials": "ljba"
+    },
+    "I04": {
+      "full": "nanmonvlei",
+      "initials": "nmnl"
+    },
+    "I05": {
+      "full": "xidapuben",
+      "initials": "xdpb"
+    },
+    "I06": {
+      "full": "bumingjueli",
+      "initials": "bmjl"
+    },
+    "I07": {
+      "full": "xisikongji",
+      "initials": "xskj"
+    },
+    "I08": {
+      "full": "wohuodai",
+      "initials": "whd"
+    },
+    "I09": {
+      "full": "heqiliao",
+      "initials": "hql"
+    },
+    "I10": {
+      "full": "renganshi",
+      "initials": "rgs"
+    },
+    "I11": {
+      "full": "gaodashang",
+      "initials": "gds"
+    },
+    "I12": {
+      "full": "zhengnengliang",
+      "initials": "znl"
+    },
+    "I13": {
+      "full": "zhongguoshixx",
+      "initials": "zgsxx"
+    },
+    "I14": {
+      "full": "shejianshangdexx",
+      "initials": "sjsdxx"
+    },
+    "I15": {
+      "full": "dufuhenmang",
+      "initials": "dfhm"
+    },
+    "I16": {
+      "full": "hangmustyle",
+      "initials": "hmstyle"
+    },
+    "I17": {
+      "full": "jiangnanstyle",
+      "initials": "jnstyle"
+    },
+    "I18": {
+      "full": "zuixuanminzufeng",
+      "initials": "zxmzf"
+    },
+    "I19": {
+      "full": "huoxingwen",
+      "initials": "hxw"
+    },
+    "I20": {
+      "full": "feizhuliu",
+      "initials": "fzl"
+    },
+    "I21": {
+      "full": "shamate",
+      "initials": "smt"
+    },
+    "I22": {
+      "full": "toucai",
+      "initials": "tc"
+    },
+    "I23": {
+      "full": "qiangchewei",
+      "initials": "qcw"
+    },
+    "I24": {
+      "full": "renrenwang",
+      "initials": "rrw"
+    },
+    "I25": {
+      "full": "diba",
+      "initials": "db"
+    },
+    "I26": {
+      "full": "baoba",
+      "initials": "bb"
+    },
+    "I27": {
+      "full": "yigemantouyinfadexuean",
+      "initials": "ygmtyfdxa"
+    },
+    "I28": {
+      "full": "yeliangchen",
+      "initials": "ylc"
+    },
+    "I29": {
+      "full": "zhaoritian",
+      "initials": "zrt"
+    },
+    "I30": {
+      "full": "longaotian",
+      "initials": "lat"
+    },
+    "I31": {
+      "full": "cangtianraoguoshui",
+      "initials": "ctrgs"
+    },
+    "I32": {
+      "full": "naichameimei",
+      "initials": "ncmm"
+    },
+    "I33": {
+      "full": "xiaoyueyue",
+      "initials": "xyy"
+    },
+    "I34": {
+      "full": "womasantianmeidawole",
+      "initials": "wmstmdwl"
+    },
+    "I35": {
+      "full": "nimaguixing",
+      "initials": "nmgx"
+    },
+    "J01": {
+      "full": "deepseekshenduqiusuo",
+      "initials": "deepseeksdqs"
+    },
+    "J02": {
+      "full": "jingzijiyibei",
+      "initials": "jzjyb"
+    },
+    "J03": {
+      "full": "zhuwopoding",
+      "initials": "zwpd"
+    },
+    "J04": {
+      "full": "qianbaicilianxizhiweizheyike",
+      "initials": "qbclxzwzyk"
+    },
+    "J05": {
+      "full": "jichubujichu",
+      "initials": "jcbjc"
+    },
+    "J06": {
+      "full": "qingxujiazhi",
+      "initials": "qxjz"
+    },
+    "J07": {
+      "full": "cunka",
+      "initials": "ck"
+    },
+    "J08": {
+      "full": "laicai",
+      "initials": "lc"
+    },
+    "J09": {
+      "full": "ruheneyounengzen",
+      "initials": "rhnynz"
+    },
+    "J10": {
+      "full": "langlangshanxiaoyaoguai",
+      "initials": "llsxyg"
+    },
+    "J11": {
+      "full": "huorengan",
+      "initials": "hrg"
+    },
+    "J12": {
+      "full": "saiboduizhang",
+      "initials": "sbdz"
+    },
+    "J13": {
+      "full": "ainilaoji",
+      "initials": "anlj"
+    },
+    "J14": {
+      "full": "banwei",
+      "initials": "bw"
+    },
+    "J15": {
+      "full": "yuzhi",
+      "initials": "yz"
+    },
+    "J16": {
+      "full": "zuowannidezuonide",
+      "initials": "zwndznd"
+    },
+    "J17": {
+      "full": "congcongrongrongyourenyouyucongcongmangmangliangundaipa",
+      "initials": "ccrryryyccmmlgdp"
+    },
+    "J18": {
+      "full": "zhenmeikongpeininaole",
+      "initials": "zmkpnnl"
+    },
+    "J19": {
+      "full": "danggeshierban",
+      "initials": "dgseb"
+    },
+    "J20": {
+      "full": "dishanchoushuiyuzhiyin",
+      "initials": "dscsyzy"
+    },
+    "J21": {
+      "full": "buzhidaowodeshencaihenmanmiao",
+      "initials": "bzdwdschmm"
+    },
+    "J22": {
+      "full": "suichengxiangfaner",
+      "initials": "scxfe"
+    },
+    "J23": {
+      "full": "woqubuzaoshuo",
+      "initials": "wqbzs"
+    },
+    "J24": {
+      "full": "bujiangbujiang",
+      "initials": "bjbj"
+    },
+    "J25": {
+      "full": "wojiangcizhizaijiayanjiu",
+      "initials": "wjczzjyj"
+    },
+    "J26": {
+      "full": "guzi",
+      "initials": "gz"
+    },
+    "J27": {
+      "full": "suchao",
+      "initials": "sc"
+    },
+    "J28": {
+      "full": "labubu",
+      "initials": "labubu"
+    },
+    "J29": {
+      "full": "citybucity",
+      "initials": "citybcity"
+    },
+    "J30": {
+      "full": "yingkong",
+      "initials": "yk"
+    },
+    "J31": {
+      "full": "shuilinglingdi",
+      "initials": "slld"
+    },
+    "J32": {
+      "full": "tougan",
+      "initials": "tg"
+    }
+  }
+}

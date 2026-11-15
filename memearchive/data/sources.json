@@ -1,0 +1,575 @@
+{
+  "schema": 1,
+  "items": [
+    {
+      "id": "rangzidanfei",
+      "name": "让子弹飞",
+      "type": "film",
+      "year": 2010
+    },
+    {
+      "id": "zhenhuan",
+      "name": "甄嬛传",
+      "type": "tv",
+      "year": 2011
+    },
+    {
+      "id": "sanguo94",
+      "name": "三国演义（1994）",
+      "type": "tv",
+      "year": 1994
+    },
+    {
+      "id": "sanguo2010",
+      "name": "三国（2010）",
+      "type": "tv",
+      "year": 2010
+    },
+    {
+      "id": "liangjian",
+      "name": "亮剑",
+      "type": "tv",
+      "year": 2005
+    },
+    {
+      "id": "kuangbiao",
+      "name": "狂飙",
+      "type": "tv",
+      "year": 2023
+    },
+    {
+      "id": "yinmidejiao",
+      "name": "隐秘的角落",
+      "type": "tv",
+      "year": 2020
+    },
+    {
+      "id": "renmindemingyi",
+      "name": "人民的名义",
+      "type": "tv",
+      "year": 2017
+    },
+    {
+      "id": "shenchuandirenjie",
+      "name": "神探狄仁杰",
+      "type": "tv",
+      "year": 2004
+    },
+    {
+      "id": "yanshuangying",
+      "name": "燕双鹰系列",
+      "type": "tv",
+      "year": 2001
+    },
+    {
+      "id": "xiyouji",
+      "name": "西游记（1986）",
+      "type": "tv",
+      "year": 1986
+    },
+    {
+      "id": "shuihuzhuan",
+      "name": "水浒传（1998）",
+      "type": "tv",
+      "year": 1998
+    },
+    {
+      "id": "dahuaxiyou",
+      "name": "大话西游",
+      "type": "film",
+      "year": 1995
+    },
+    {
+      "id": "gongfu",
+      "name": "功夫",
+      "type": "film",
+      "year": 2004
+    },
+    {
+      "id": "xialuotefannao",
+      "name": "夏洛特烦恼",
+      "type": "film",
+      "year": 2015
+    },
+    {
+      "id": "xihongshishoufu",
+      "name": "西虹市首富",
+      "type": "film",
+      "year": 2018
+    },
+    {
+      "id": "liulangdiqiu",
+      "name": "流浪地球",
+      "type": "film",
+      "year": 2019
+    },
+    {
+      "id": "nezha1",
+      "name": "哪吒之魔童降世",
+      "type": "film",
+      "year": 2019
+    },
+    {
+      "id": "nezha2",
+      "name": "哪吒之魔童闹海",
+      "type": "film",
+      "year": 2025
+    },
+    {
+      "id": "shibingtuji",
+      "name": "士兵突击",
+      "type": "tv",
+      "year": 2006
+    },
+    {
+      "id": "wulinwaizhuan",
+      "name": "武林外传",
+      "type": "tv",
+      "year": 2006
+    },
+    {
+      "id": "aiqinggongyu",
+      "name": "爱情公寓",
+      "type": "tv",
+      "year": 2009
+    },
+    {
+      "id": "jiayounver",
+      "name": "家有儿女",
+      "type": "tv",
+      "year": 2005
+    },
+    {
+      "id": "huanzhugege",
+      "name": "还珠格格",
+      "type": "tv",
+      "year": 1998
+    },
+    {
+      "id": "xiangcunaiqing",
+      "name": "乡村爱情",
+      "type": "tv",
+      "year": 2006
+    },
+    {
+      "id": "doutinghao",
+      "name": "都挺好",
+      "type": "tv",
+      "year": 2019
+    },
+    {
+      "id": "manchangjijie",
+      "name": "漫长的季节",
+      "type": "tv",
+      "year": 2023
+    },
+    {
+      "id": "zhanlang",
+      "name": "战狼",
+      "type": "film",
+      "year": 2015
+    },
+    {
+      "id": "wobushiyaoshen",
+      "name": "我不是药神",
+      "type": "film",
+      "year": 2018
+    },
+    {
+      "id": "wujiandao",
+      "name": "无间道",
+      "type": "film",
+      "year": 2002
+    },
+    {
+      "id": "xijuzhiwang",
+      "name": "喜剧之王",
+      "type": "film",
+      "year": 1999
+    },
+    {
+      "id": "tianxiawuzhei",
+      "name": "天下无贼",
+      "type": "film",
+      "year": 2004
+    },
+    {
+      "id": "jiupinzhimaguan",
+      "name": "九品芝麻官",
+      "type": "film",
+      "year": 1994
+    },
+    {
+      "id": "qingshenshen",
+      "name": "情深深雨濛濛",
+      "type": "tv",
+      "year": 2001
+    },
+    {
+      "id": "wangjiaokamen",
+      "name": "旺角卡门",
+      "type": "film",
+      "year": 1988
+    },
+    {
+      "id": "bianxingji",
+      "name": "变形计",
+      "type": "tv",
+      "year": 2006
+    },
+    {
+      "id": "woaiwojia",
+      "name": "我爱我家",
+      "type": "tv",
+      "year": 1993
+    },
+    {
+      "id": "langlangshan",
+      "name": "浪浪山小妖怪",
+      "type": "film",
+      "year": 2025
+    },
+    {
+      "id": "balala",
+      "name": "巴啦啦小魔仙",
+      "type": "tv",
+      "year": 2008
+    },
+    {
+      "id": "yuanshen",
+      "name": "原神",
+      "type": "game",
+      "year": 2020
+    },
+    {
+      "id": "heishenhua",
+      "name": "黑神话：悟空",
+      "type": "game",
+      "year": 2024
+    },
+    {
+      "id": "aierdeng",
+      "name": "艾尔登法环",
+      "type": "game",
+      "year": 2022
+    },
+    {
+      "id": "saibopengke",
+      "name": "赛博朋克 2077",
+      "type": "game",
+      "year": 2020
+    },
+    {
+      "id": "pvz",
+      "name": "植物大战僵尸",
+      "type": "game",
+      "year": 2009
+    },
+    {
+      "id": "wangzhe",
+      "name": "王者荣耀",
+      "type": "game",
+      "year": 2015
+    },
+    {
+      "id": "lol",
+      "name": "英雄联盟",
+      "type": "game",
+      "year": 2009
+    },
+    {
+      "id": "csgo",
+      "name": "CS:GO",
+      "type": "game",
+      "year": 2012
+    },
+    {
+      "id": "amongus",
+      "name": "Among Us",
+      "type": "game",
+      "year": 2018
+    },
+    {
+      "id": "yangle",
+      "name": "羊了个羊",
+      "type": "game",
+      "year": 2022
+    },
+    {
+      "id": "hechengxigua",
+      "name": "合成大西瓜",
+      "type": "game",
+      "year": 2021
+    },
+    {
+      "id": "lvxingqingwa",
+      "name": "旅行青蛙",
+      "type": "game",
+      "year": 2017
+    },
+    {
+      "id": "tanwanlanyue",
+      "name": "贪玩蓝月",
+      "type": "game",
+      "year": 2017
+    },
+    {
+      "id": "xiaoyouxi4399",
+      "name": "4399 小游戏",
+      "type": "game",
+      "year": 2002
+    },
+    {
+      "id": "shimingzhaohuan",
+      "name": "使命召唤",
+      "type": "game",
+      "year": 2003
+    },
+    {
+      "id": "eva",
+      "name": "新世纪福音战士",
+      "type": "anime",
+      "year": 1995
+    },
+    {
+      "id": "skibidi",
+      "name": "Skibidi Toilet",
+      "type": "anime",
+      "year": 2023
+    },
+    {
+      "id": "pepe",
+      "name": "Pepe 蛙",
+      "type": "web",
+      "year": 2005
+    },
+    {
+      "id": "doge",
+      "name": "Doge 柴犬",
+      "type": "web",
+      "year": 2010
+    },
+    {
+      "id": "cheems",
+      "name": "Cheems 柴犬",
+      "type": "web",
+      "year": 2019
+    },
+    {
+      "id": "niconico",
+      "name": "niconico 动画",
+      "type": "platform",
+      "year": 2006
+    },
+    {
+      "id": "mabaoguo",
+      "name": "马保国",
+      "type": "person",
+      "year": 2020
+    },
+    {
+      "id": "dongyongge",
+      "name": "冬泳怪鸽",
+      "type": "person",
+      "year": 2019
+    },
+    {
+      "id": "guolaoshi",
+      "name": "迷人的郭老师",
+      "type": "person",
+      "year": 2019
+    },
+    {
+      "id": "dasima",
+      "name": "大司马",
+      "type": "person",
+      "year": 2016
+    },
+    {
+      "id": "sunxiaochuan",
+      "name": "孙笑川",
+      "type": "person",
+      "year": 2015
+    },
+    {
+      "id": "fuyuanhui",
+      "name": "傅园慧",
+      "type": "person",
+      "year": 2016
+    },
+    {
+      "id": "wulantuya",
+      "name": "乌兰图雅",
+      "type": "person",
+      "year": 2025
+    },
+    {
+      "id": "jipai",
+      "name": "鸡排主理人李俊永",
+      "type": "person",
+      "year": 2025
+    },
+    {
+      "id": "fengjie",
+      "name": "凤姐",
+      "type": "person",
+      "year": 2009
+    },
+    {
+      "id": "furong",
+      "name": "芙蓉姐姐",
+      "type": "person",
+      "year": 2005
+    },
+    {
+      "id": "xilige",
+      "name": "犀利哥",
+      "type": "person",
+      "year": 2010
+    },
+    {
+      "id": "naicha",
+      "name": "奶茶妹妹",
+      "type": "person",
+      "year": 2009
+    },
+    {
+      "id": "tieba",
+      "name": "百度贴吧",
+      "type": "platform",
+      "year": 2003
+    },
+    {
+      "id": "weibo",
+      "name": "微博",
+      "type": "platform",
+      "year": 2009
+    },
+    {
+      "id": "douyin",
+      "name": "抖音",
+      "type": "platform",
+      "year": 2016
+    },
+    {
+      "id": "kuaishou",
+      "name": "快手",
+      "type": "platform",
+      "year": 2011
+    },
+    {
+      "id": "bilibili",
+      "name": "哔哩哔哩",
+      "type": "platform",
+      "year": 2009
+    },
+    {
+      "id": "xiaohongshu",
+      "name": "小红书",
+      "type": "platform",
+      "year": 2013
+    },
+    {
+      "id": "douban",
+      "name": "豆瓣",
+      "type": "platform",
+      "year": 2005
+    },
+    {
+      "id": "wechat",
+      "name": "微信",
+      "type": "platform",
+      "year": 2011
+    },
+    {
+      "id": "qq",
+      "name": "QQ",
+      "type": "platform",
+      "year": 1999
+    },
+    {
+      "id": "tianya",
+      "name": "天涯社区",
+      "type": "platform",
+      "year": 1999
+    },
+    {
+      "id": "maopu",
+      "name": "猫扑",
+      "type": "platform",
+      "year": 1997
+    },
+    {
+      "id": "renren",
+      "name": "人人网",
+      "type": "platform",
+      "year": 2005
+    },
+    {
+      "id": "twitter",
+      "name": "X（推特）",
+      "type": "platform",
+      "year": 2006
+    },
+    {
+      "id": "fourchan",
+      "name": "4chan",
+      "type": "platform",
+      "year": 2003
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "type": "platform",
+      "year": 2016
+    },
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "type": "platform",
+      "year": 2011
+    },
+    {
+      "id": "taobao",
+      "name": "淘宝",
+      "type": "platform",
+      "year": 2003
+    },
+    {
+      "id": "duanshipin",
+      "name": "短视频平台",
+      "type": "platform",
+      "year": 2016
+    },
+    {
+      "id": "zhibo",
+      "name": "直播平台",
+      "type": "platform",
+      "year": 2014
+    },
+    {
+      "id": "chunwan",
+      "name": "央视春晚",
+      "type": "event",
+      "year": 1983
+    },
+    {
+      "id": "nba",
+      "name": "NBA",
+      "type": "event",
+      "year": 1946
+    },
+    {
+      "id": "guozu",
+      "name": "国足",
+      "type": "event",
+      "year": 1924
+    },
+    {
+      "id": "web",
+      "name": "网络",
+      "type": "web",
+      "year": 1990
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "meme-archive"
+version = "1.2.0"
+description = "中文互联网梗库：查询、随机抽梗、fortune 语录与导出"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "meme-archive contributors" }]
+keywords = ["meme", "chinese", "internet-slang", "fortune", "dataset"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Natural Language :: Chinese (Simplified)",
+    "Topic :: Text Processing :: Linguistic",
+]
+
+[project.optional-dependencies]
+xlsx = ["openpyxl>=3.1"]
+dev = ["pytest>=8"]
+
+[project.scripts]
+meme = "memearchive.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/your-name/meme-archive"
+
+[tool.setuptools]
+packages = ["memearchive", "memearchive.data"]
+include-package-data = true
+
+[tool.setuptools.package-data]
+"memearchive.data" = ["*.json", "*.txt"]
